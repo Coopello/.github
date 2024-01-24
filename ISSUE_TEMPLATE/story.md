@@ -4,6 +4,7 @@ about: ユーザーストーリー
 title: "[STORY] 〜をする、〜をしたい"
 labels: story
 assignees: ""
+
 ---
 
 ## ストーリーの目的
