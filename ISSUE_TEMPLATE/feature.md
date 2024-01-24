@@ -4,6 +4,7 @@ about: プロジェクトに機能を要望する
 title: "[FEATURE] 機能名"
 labels: feature
 assignees: ""
+
 ---
 
 ## 機能の説明
